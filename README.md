@@ -1,6 +1,6 @@
-# To-find-whether-it-is-a-armstrong-number-or-not;
-int main()
-{
+   # To-find-whether-it-is-a-armstrong-number-or-not;
+   int main()
+   {
     int x = 3716;
     int y = x;
     int compare = y;
@@ -9,7 +9,7 @@ int main()
     int sum = 0;
     int multiply;
     
-for (i=0; x>0;i++){
+    for (i=0; x>0;i++){
         x=x/10;
         n++;
     }
