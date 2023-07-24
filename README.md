@@ -1,4 +1,14 @@
 # To-find-whether-it-is-a-armstrong-number-or-not.
+
+
+
+
+
+
+
+
+
+
 int main()
 {
     int x = 3716;
