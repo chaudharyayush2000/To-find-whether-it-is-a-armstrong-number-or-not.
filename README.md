@@ -1,25 +1,5 @@
-# To-find-whether-it-is-a-armstrong-number-or-not.
-
-
-
-
-
-
-
-
-
-
-int main()
-{
-    int x = 3716;
-    int y = x;
-    int compare = y;
-    int i,j,k,r;
-    int n = 0;
-    int sum = 0;
-    int multiply;
-    
-    for (i=0; x>0;i++){
+# To-find-whether-it-is-a-armstrong-number-or-not;
+for (i=0; x>0;i++){
         x=x/10;
         n++;
     }
@@ -40,3 +20,12 @@ int main()
     } else {
         printf("Not an Armstrong number");
     }
+    int main()
+{
+    int x = 3716;
+    int y = x;
+    int compare = y;
+    int i,j,k,r;
+    int n = 0;
+    int sum = 0;
+    int multiply;
